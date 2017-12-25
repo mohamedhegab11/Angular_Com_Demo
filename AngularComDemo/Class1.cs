@@ -8,5 +8,6 @@ namespace AngularComDemo
 {
     public class Class1
     {
+
     }
 }
